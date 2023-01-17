@@ -5,6 +5,8 @@ Use Eurotunnels API to pull boarding data!
 change this in grabToken.py on line 30
 Uk Terminal: `https://www.eurotunnel.com/api/v1/departures/GetCombinedBoardResults?terminal=uk`
 <br>
+<br>
+<br>
 Fr Terminal: `https://www.eurotunnel.com/api/v1/departures/GetCombinedBoardResults?terminal=Fr`
 
 #### Requirements
@@ -35,6 +37,17 @@ Python Code at line 47:
 `
 subprocess.run(["python3", "refreshToken.py"])
 `
+## JSON DATA TABLE - demo site's json in a table
+
+| Letter | LinesEn                                              | LinesFr                                              | FormattedDepartureTimes           |
+|-------|---------------------------------------------------|---------------------------------------------------|----------------------------------|
+| A1    | Please proceed                                     | Appel en cours                                     | FormattedFolkestoneTerminalTime: 0:00 |
+| A3    | Please proceed                                     | Appel en cours                                     | FormattedFolkestoneTerminalTime: 0:05 |
+| A5    | Please proceed                                     | Appel en cours                                     | FormattedFolkestoneTerminalTime: 0:10 |
+| B1    | Wait for call, First call in 1h 43m                | Attendez l'appel, Premier appel 1h 43m                | FormattedFolkestoneTerminalTime: 0:10 |
+| B2    | Wait for call, First call in 1h 43m                | Attendez l'appel, Premier appel 1h 43m                | FormattedFolkestoneTerminalTime: 0:15 |
+| B5    | Wait for call, First call in 1h 43m                | Attendez l'appel, Premier appel 1h 43m                | FormattedFolkestoneTerminalTime: 0:15 |
+
 
 <br><br>
 Hope you Enjoy (non-commerical use only)
