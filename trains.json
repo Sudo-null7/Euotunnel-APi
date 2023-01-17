@@ -1,0 +1,80 @@
+[
+   {
+      "Letter":"A1",
+      "LinesEn":[
+         "Please proceed"
+      ],
+      "LinesFr":[
+         "Appel en cours"
+      ],
+      "FormattedDepartureTimes":{
+         "FormattedFolkestoneTerminalTime":"0:00"
+      }
+   },
+   {
+      "Letter":"A3",
+      "LinesEn":[
+         "Please proceed"
+      ],
+      "LinesFr":[
+         "Appel en cours"
+      ],
+      "FormattedDepartureTimes":{
+         "FormattedFolkestoneTerminalTime":"0:05"
+      }
+   },
+   {
+      "Letter":"A5",
+      "LinesEn":[
+         "Please proceed"
+      ],
+      "LinesFr":[
+         "Appel en cours"
+      ],
+      "FormattedDepartureTimes":{
+         "FormattedFolkestoneTerminalTime":"0:10"
+      }
+   },
+   {
+      "Letter":"B1",
+      "LinesEn":[
+         "Wait for call",
+         "First call in 1h 43m"
+      ],
+      "LinesFr":[
+         "Attendez l'appel",
+         "Premier appel 1h 43m"
+      ],
+      "FormattedDepartureTimes":{
+         "FormattedFolkestoneTerminalTime":"0:10"
+      }
+   },
+   {
+      "Letter":"B2",
+      "LinesEn":[
+         "Wait for call",
+         "First call in 1h 43m"
+      ],
+      "LinesFr":[
+         "Attendez l'appel",
+         "Premier appel 1h 43m"
+      ],
+      "FormattedDepartureTimes":{
+         "FormattedFolkestoneTerminalTime":"0:15"
+      }
+   },
+   {
+      "Letter":"B5",
+      "LinesEn":[
+         "Wait for call",
+         "First call in 1h 43m"
+      ],
+      "LinesFr":[
+         "Attendez l'appel",
+         "Premier appel 1h 43m"
+      ],
+      "FormattedDepartureTimes":{
+         "FormattedFolkestoneTerminalTime":"0:15"
+      }
+   }
+]
