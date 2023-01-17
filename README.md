@@ -7,6 +7,10 @@ Uk Terminal: `https://www.eurotunnel.com/api/v1/departures/GetCombinedBoardResul
 <br>
 Fr Terminal: `https://www.eurotunnel.com/api/v1/departures/GetCombinedBoardResults?terminal=Fr`
 
+#### Requirements
+no suprise here just do `pip install -r Requirements.txt`
+got to install selenium and stuff
+
 #### Web UI
 Shows trains
 if you want to have all trains and not just 6 then replace on line 7
